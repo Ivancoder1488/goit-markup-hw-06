@@ -909,6 +909,7 @@ input:checked+label .custom-checkbox {
   border: none;
   fill:#F4F4FD;
 }
-.privacy-link{
-  color:#4d5ae5;
+.privacy-link {
+  color: #4d5ae5;
+  display: inline-block;
 }
